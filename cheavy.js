@@ -48,7 +48,7 @@ const htmlcnt = `
 `;
 
 let hud = null;
-let whash = [0xC472FE2, 0xA914799, 0x6E7DDDEC];
+let whash = [0xC472FE2, 0xA914799];
 let scra = true;
 
 function shud() {
